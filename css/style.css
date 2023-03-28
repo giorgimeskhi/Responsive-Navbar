@@ -12,6 +12,7 @@ label.logo{
     line-height: 80px;
     padding: 0 100px;
     font-weight: bold;
+    cursor: pointer;
 }
 nav ul{
     float: right;
